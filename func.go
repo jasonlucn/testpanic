@@ -1,6 +1,6 @@
 package testpanic
 
 
-func testPanic(){
+func CausePanic(){
 	panic("testPanic")
 }
